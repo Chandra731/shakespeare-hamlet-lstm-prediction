@@ -13,7 +13,7 @@ This project demonstrates a next-word prediction system using an LSTM neural net
 
 1. Clone this repository:
 
-   `git clone https://github.com/your-repo/next-word-prediction
+   `git clone https://github.com/Chandra731/shakespeare-hamlet-lstm-prediction
    cd next-word-prediction`
 
 2. Install the required dependencies:
